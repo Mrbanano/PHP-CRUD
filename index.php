@@ -11,6 +11,7 @@
     <p>lorem insup</p>
     <h2>Lorem</h2> 
     <p>lorem insup</p>
+    <div class="root"></div>
     <script src="./static/js/index.js"></script>
 </body>
 
